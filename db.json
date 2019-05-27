@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "owners": [
+    { "id": "1",	"name": "Andrew",	"address": "test address 01",	"dateOfBirth": "12-12-2001"}, 
+    { "id": "2",	"name": "Jack",		"address": "test address 02",	"dateOfBirth": "12-02-2000"}
+	]
 }
